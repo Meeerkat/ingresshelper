@@ -71,6 +71,7 @@
         en: 'Select zoom level',
         ru: 'Выберите масштаб карты',
         ua: 'Оберіть масштаб мапи',
+        it: 'Seleziona il livello dello zoom',
         'zh-cmn-Hans': '选择放大级别',
         'zh-cmn-Hant': '選擇放大級別'
     };
@@ -79,6 +80,7 @@
         en: 'Incorrect input',
         ru: 'Неверный ввод. Выберите из предложенных вариантов',
         ua: 'Неправильне значення. Оберіть із запропонованих варіантів',
+        it: 'Input non corretto',
         'zh-cmn-Hans': '输入有误',
         'zh-cmn-Hant': '輸入有誤'
     };
@@ -87,6 +89,7 @@
         en: 'Task saved. Please wait for a few minutes',
         ru: 'Задача сохранена. Через несколько минут вы получите скриншот',
         ua: 'Завдання збережено. За декілька хвилин Ви отримаєте знімок',
+        it: 'Operazione salvata. Per favore aspetta qualche minuto',
         'zh-cmn-Hans': '任务保存完成，请稍候',
         'zh-cmn-Hant': '任務保存完成，請稍候'
     };
@@ -95,6 +98,7 @@
         en: 'Send geolocation now',
         ru: 'Пришлите геолокацию нужной области',
         ua: 'Надішліть геолокацію необхідної області',
+        it: 'Invia la posizione ora',
         'zh-cmn-Hans': '选择放大级别',
         'zh-cmn-Hant': '選擇放大級別'
     };
@@ -117,6 +121,12 @@
         ['16', '15', '14', '13'],
         ['12', '10', '8', '6'],
         ['3 - Весь світ']
+    ];
+    levelsMarkupText.it = [
+        ['17 - Tutti i portali'],
+        ['16', '15', '14', '13'],
+        ['12', '10', '8', '6'],
+        ['3 - Mondiale']
     ];
     levelsMarkupText['zh-cmn-Hans'] = [
         ['17 - 显示所有po'],

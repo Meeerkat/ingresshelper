@@ -100,6 +100,7 @@ var app = {};
         en: 'Unknown command',
         ru: 'Неизвестная команда',
         ua: 'Невідома команда',
+        it: 'Comando sconosciuto',
         'zh-cmn-Hans': '无效指令',
         'zh-cmn-Hant': '無效指令'
     };
@@ -108,6 +109,7 @@ var app = {};
         en: 'Ok, i cancelled previous command',
         ru: 'Окей, команда отменена',
         ua: 'Гаразд, команду скасовано',
+        it: 'Ok, ho cancellato il comando precedente',
         'zh-cmn-Hans': '好的，我将取消上一条指令',
         'zh-cmn-Hant': '好的，我將取消上一條指令'
     };

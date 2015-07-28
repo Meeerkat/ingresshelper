@@ -305,6 +305,12 @@
         ['12', '10', '8', '6'],
         ['3 - Весь світ']
     ];
+    levelsMarkup.it = [
+        ['17 - Tutti i portali'],
+        ['16', '15', '14', '13'],
+        ['12', '10', '8', '6'],
+        ['3 - Mondo']
+    ];
     levelsMarkup['zh-cmn-Hans'] = [
         ['17 - 全部Po'],
         ['16', '15', '14', '13'],
@@ -323,6 +329,7 @@
         en: 'Cancel setup',
         ru: 'Отменить настройку',
         ua: 'Відмінити налаштування',
+        it: 'Cancella il setup',
         'zh-cmn-Hans': '取消设置',
         'zh-cmn-Hant': '取消设置'
     };
@@ -331,6 +338,7 @@
         en: 'You already have interval task. You can cancel this task and create new one',
         ru: 'У вас уже есть активная задача. Вы должны отменить ее перед созданием новой',
         ua: 'У вас вже є активне завдання. Ви маєте відмінити її перед створенням нової',
+        it: 'Hai già un interval task. Puoi cancellare questo task e crearne uno nuovo',
         'zh-cmn-Hans': '已有任务存在，您可以取消此任务后创建新任务',
         'zh-cmn-Hant': '已有任務存在，您可以取消此任務后創建新任務'
     };
@@ -339,6 +347,7 @@
         en: 'Cancel previous and create new',
         ru: 'Отменить задачу и создать новую',
         ua: 'Відмінити завдання та створити нову',
+        it: 'Cancella il precedente e creane uno nuovo',
         'zh-cmn-Hans': '取消上一个任务并创建新任务',
         'zh-cmn-Hant': '取消上一個任務并創建新任務'
     };
@@ -347,6 +356,7 @@
         en: 'How long do you need interval?',
         ru: 'Как долго нужно создавать скриншоты?',
         ua: 'Протягом якого часу робити знімки?',
+        it: 'Quanto lungo deve essere il tuo interval?',
         'zh-cmn-Hans': '您需要的间隔时间是？',
         'zh-cmn-Hant': '您需要的間隔時間是？'
     };
@@ -355,6 +365,7 @@
         en: 'How often do you need screenshots?',
         ru: 'Как часто присылать скриншоты?',
         ua: 'Як часто надсилати знімки?',
+        it: 'Ogni quanto hai bisogno di uno screenshot?',
         'zh-cmn-Hans': '您需要多久截屏一次？',
         'zh-cmn-Hant': '您需要多久截屏一次？'
     };
@@ -363,6 +374,7 @@
         en: 'Send geolocation now',
         ru: 'Пришлите геолокацию нужной области',
         ua: 'Надішліть геолокацію необхідної області',
+        it: 'Manda la tua posizione ora',
         'zh-cmn-Hans': '请发送位置坐标',
         'zh-cmn-Hant': '請發送位置坐標'
     };
@@ -371,6 +383,7 @@
         en: 'Select zoom level',
         ru: 'Выберите масштаб карты',
         ua: 'Оберіть масштаб мапи',
+        it: 'Selezione il livello di zoom',
         'zh-cmn-Hans': '选择放大等级',
         'zh-cmn-Hant': '選擇放大等級'
     };
@@ -379,6 +392,7 @@
         en: 'Incorrect input',
         ru: 'Неверный ввод. Выберите из предложенных вариантов',
         ua: 'Неправильне значення. Виберіть із запропонованих варіантів',
+        it: 'Input non corretto',
         'zh-cmn-Hans': '输入有误',
         'zh-cmn-Hant': '輸入有誤'
     };
@@ -387,6 +401,7 @@
         en: 'Task saved. You will start to receive screenshots soon',
         ru: 'Задача сохранена. Скоро вы начнете получать скриншоты',
         ua: 'Завдання збережено. Згодом Ви почнете отримувати знімки',
+        it: 'Task salvato. Inizierai a ricevere screenshot presto',
         'zh-cmn-Hans': '任务保存完成，稍后会收到截屏',
         'zh-cmn-Hant': '任務保存完成，稍後會收到截屏'        
     };
@@ -395,6 +410,7 @@
         en: 'Interval complete. You will receive last screenshot in few minutes',
         ru: 'Интервал окончен. Через несколько минут вы получите последний скриншот',
         ua: 'Інтервал завершено. За декілька хвилин Ви отримаєте останній знімок',
+        it: 'Interval completo. Riceverai il tuo ultimo screenshot in qualche minuto',
         'zh-cmn-Hans': '即将收到截屏',
         'zh-cmn-Hant': '即將受到截屏'
     };

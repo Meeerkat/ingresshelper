@@ -55,6 +55,7 @@
         '🇬🇧English': 'en',
         '🇺🇦Українська': 'ua',
         '🇷🇺Русский': 'ru',
+        '🇷🇺Italiano': 'it',
         '🇨🇳简体中文': 'zh-cmn-Hans',
         '🇨🇳繁體中文': 'zh-cmn-Hant'
     };
@@ -72,6 +73,7 @@
         en: 'Please choose your language',
         ru: 'Пожалуйста выберите язык, который вам удобней использовать',
         ua: 'Будь ласка, оберіть мову, якою Вам зручніше користуватися',
+        it: 'Per favore scegli la lingua',
         'zh-cmn-Hans': '请选择语言',
         'zh-cmn-Hant': '請選擇語言'
     };
@@ -80,6 +82,7 @@
         en: 'Incorrect input. Please try again',
         ru: 'Неправильный выбор. Выберите из предложенных вариантов',
         ua: 'Неправильне значення. Виберіть із запропонованих варіантів',
+        it: 'Input non corretto. Prova ancora',
         'zh-cmn-Hans': '输入有误，请重试',
         'zh-cmn-Hant': '輸入有誤，請重試'
     };

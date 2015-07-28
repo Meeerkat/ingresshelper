@@ -138,6 +138,7 @@
         en: 'I`m sorry. Looks like something comes really wrong. Please try again in few minutes',
         ru: 'Ой. Что-то пошло не так. Пожалуйста, попробуйте еще раз через пару минут',
         ua: 'Вибачте, але щось пішло не так. Будь ласка, спробуйте знову за декілька хвилин',
+        it: 'Scusate. Sembra che qualcosa non funzioni. Per favore riprova tra qualche minuto',
         'zh-cmn-Hans': '不好意思，机器人好像出错了，请稍后再试',
         'zh-cmn-Hant': '不好意思，機器人好像壞掉了，請稍後再試'
     };
